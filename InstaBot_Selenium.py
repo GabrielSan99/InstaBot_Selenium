@@ -84,7 +84,8 @@ class Bot():
             sleep(19)
 
 
-            # # comment
+            # # comments in photos that liked
+            
             # self.driver.find_element_by_class_name('RxpZH').click() 
             # sleep(1)
             # self.driver.find_element_by_xpath("//textarea[@placeholder='Add a comment…']").send_keys(self.comments[randint(0,1)])
